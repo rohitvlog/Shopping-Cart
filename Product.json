@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name":" Iphone14",
+        "price": "80000",
+        "image": "iphone14.png"
+    },
+    {
+        "id": 2,
+        "name":" One Plus9r",
+        "price": "45000",
+        "image": "oneplus9r.png"
+    },
+    {
+        "id": 3,
+        "name":" OppoF21",
+        "price": "25000",
+        "image": "oppo.png"
+    },
+    {
+        "id": 4,
+        "name":"Samsung s23 ",
+        "price": "67999",
+        "image": "s23.png"
+    },
+    {
+        "id": 5,
+        "name":" RealMeC30",
+        "price": "20000",
+        "image": "realmec30.png"
+    },
+    {
+        "id": 6,
+        "name":"TechnoG5",
+        "price": "19999",
+        "image": "techno5g.png"
+    },
+    {
+        "id":7,
+        "name":"Boat Airpodes181",
+        "price":999,
+        "image":"boatairdropes181.png"
+    },
+    {
+        "id":8,
+        "name":"Boat Rocker151",
+        "price":2999,
+        "image":"boatrocker151.png"
+    },
+    {
+        "id":9,
+        "name":"Boat Rockerz330",
+        "price":699,
+        "image":"boatrockerz330.png"
+    },
+    {
+        "id":10,
+        "name":"Lg Microwave 20l",
+        "price":5999,
+        "image":"lgmicro.png"
+    }
+        
+    
+]
