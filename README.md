@@ -1,2 +1,2 @@
 # shoppingcart
-shopping cart website with the help of Html, Css  & Javascript.
+ Crete shopping cart website with the help of Html, Css  & Javascript.
